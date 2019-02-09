@@ -2,17 +2,20 @@ import scrapy
 import re
 from scrapy.http import FormRequest
 import requests
-
+from random_user_agent.user_agent import UserAgent
+from scrapy_splash import SplashRequest
+import time
 
 
 # CONSTANTS
 send_data_url = "https://frj-investments.herokuapp.com/api/potential_investments"
-zillow_login_email = 'felix.ramirezjr.korea@gmail.com'
-zillow_login_password = 'asdfasdf123123'
-tes = 'https://www.zillow.com/browse/homes/tx/'
 homes_url = 'https://www.zillow.com/browse/homes/'
-zillow_captcha = 'https://www.zillow.com/captchaPerimeterX/?url=%2fuser%2facct%2flogin%2f&uuid=d3726630-2b62-11e9-9fb9-45f9f4604070&vid'
-
+zillow_url = 'https://www.zillow.com'
+my_user_agent = "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B179 Safari/7534.48.3"
+ # In order to prevent Zillow from knowing we are robots,
+ # ensure that we are always using a random user agent
+user_agent_rotator = UserAgent()
+zillow_homes_for_sale = 'https://www.zillow.com/homes/for_sale/*city*,-*SS*_rb/'
 
 
 class ZillowScraper(scrapy.Spider):
@@ -20,16 +23,60 @@ class ZillowScraper(scrapy.Spider):
     #start_urls = ['https://www.zillow.com/']
     start_urls = ['https://www.zillow.com/browse/homes/']
     allowed_domains = ['zillow.com']
+    handle_httpstatus_list = [500, 503, 504, 400, 408, 307, 403]
     #login_url = 'https://www.zillow.com/user/acct/login/'
 
     def start_requests(self):
-        yield scrapy.Request(homes_url, callback=self.parse, headers={"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 5_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9B179 Safari/7534.48.3"})
+        urls_to_scrape = []
+        agent = user_agent_rotator.get_random_user_agent()
+
+        file = open ("us_cities_states_counties.txt", "r")
+        for line in file:
+            splitted = line.strip().split('|')
+            city = splitted[0].replace(' ', '-')
+            state = splitted[1]
+            url = zillow_homes_for_sale.replace('*city*', city).replace('*SS*', state)
+            # Now sleeping and yielding
+            if url not in urls_to_scrape:
+                urls_to_scrape.append(url)
+                print 'Sleeping...Zzzz'
+                time.sleep(5)
+                print 'Crawling: ' + url
+                yield scrapy.Request(url,
+                    callback=self.parse,
+                    meta={'city': city, 'state': state, 'location': city + ' ' + state },
+                    headers={"User-Agent": agent})
+
 
     def parse(self, response):
-        # we first want to get the list of houses in states
-        for section in response.css('.zsg-content-component'):
-            for state in section.css('li'):
-                print state.css('a::attr(href)' ).extract_first()
+        print 'in the parse'
+        print response.meta['location']
+
+
+        #yield scrapy.Request(homes_url, callback=self.parse, headers={"User-Agent": agent})
+
+    # def parse(self, response):
+    #     # we first want to get the list of houses in states
+    #     for section in response.css('.zsg-content-component'):
+    #         for state in section.css('li'):
+    #             path_to_state = state.css('a::attr(href)').extract_first()
+    #             location_name = path_to_state.replace('/browse/homes/', '')
+    #             agent = user_agent_rotator.get_random_user_agent()
+    #             print 'sleep five seconds??'
+    #             time.sleep(5)
+    #             yield scrapy.Request(zillow_url + path_to_state,
+    #                 callback=self.parse_state,
+    #                 headers={"User-Agent": agent},
+    #                 meta={'location': location_name})
+    #
+    #
+    # def parse_state(self, response):
+    #     print 'Hello I am here in the preview!'
+    #     for county in response.css('li'):
+    #         print 'county??'
+    #         print county.css('a::attr(href)').extract_first()
+
+
 
 
 
