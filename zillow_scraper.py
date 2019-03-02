@@ -37,9 +37,9 @@ class ZillowScraper(scrapy.Spider):
             # Now sleeping and yielding
             if url not in urls_to_scrape:
                 urls_to_scrape.append(url)
-                print 'Sleeping...Zzzz'
+                print('Sleeping...Zzzz')
                 time.sleep(5)
-                print 'Crawling: ' + url
+                print('Crawling: ' + url)
                 yield scrapy.Request(url,
                     callback=self.parse,
                     meta={'city': city, 'state': state, 'location': city + ' ' + state, 'page': 1},
@@ -47,8 +47,8 @@ class ZillowScraper(scrapy.Spider):
 
 
     def parse(self, response):
-        print 'in the parse'
-        print response.meta['location']
+        print('in the parse')
+        print(response.meta['location'])
         index = 0
         all_data = []
 
@@ -75,21 +75,21 @@ class ZillowScraper(scrapy.Spider):
             data["bathrooms"] = data["bathrooms"].replace('ba', '').strip()
             data['description'] = data["description"] + " URL: " + response.url + " page: " + response.meta['page']
             #print house.xpath('//p[@class="zsg-photo-card-spec"]/text()')
-            print "========== DATA =========="
-            print data
+            print("========== DATA ==========")
+            print(data)
             index = index + 1
             r = requests.post(url = send_data_url, data = data)
             print(r.text)
 
-        print "About to try and get the next page"
+        print("About to try and get the next page")
         for next in response.css('.zsg-pagination-next'):
-            print "About to try css get for zsg pagination"
+            print("About to try css get for zsg pagination")
             next_page = zillow_url + next.xpath('a/@href').extract_first()
             if next_page != None:
                 response.meta['page'] = response.meta['page'] + 1
-                print "Sleeping and going to the next page"
-                print response.meta['page']
-                print next_page
+                print("Sleeping and going to the next page")
+                print(response.meta['page'])
+                print(next_page)
                 time.sleep(5)
 
                 yield scrapy.Request(next_page,
