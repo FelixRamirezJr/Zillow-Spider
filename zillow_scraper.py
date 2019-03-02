@@ -73,7 +73,7 @@ class ZillowScraper(scrapy.Spider):
 
             data["bathrooms"] = house.xpath('//p[@class="zsg-photo-card-spec"]/span[@class="zsg-photo-card-info"]/text()').extract()[1]
             data["bathrooms"] = data["bathrooms"].replace('ba', '').strip()
-            data['description'] = data["description"] + " URL: " + response.url + " page: " + response.meta['page']
+            data['description'] = data["description"] + " URL: " + response.url + " page: " + str(response.meta['page'])
             #print house.xpath('//p[@class="zsg-photo-card-spec"]/text()')
             print("========== DATA ==========")
             print(data)
