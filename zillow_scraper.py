@@ -45,6 +45,10 @@ class ZillowScraper(scrapy.Spider):
                     callback=self.parse,
                     meta={'city': city, 'state': state, 'location': city + ' ' + state, 'page': 1},
                     headers={"User-Agent": agent})
+        # yield scrapy.Request('https://www.zillow.com/homes/for_sale/Aguada,-PR_rb/',
+        #     callback=self.parse,
+        #     meta={'city': 'city', 'state': 'state', 'location': 'test' + ' ' + 'test', 'page': 1},
+        #     headers={"User-Agent": agent})
 
     def parse_house(self, response):
         print("parsing house")
@@ -88,6 +92,8 @@ class ZillowScraper(scrapy.Spider):
         print(response.meta['location'])
         index = 0
         all_data = []
+        print("Sleeping when in the parse...")
+        time.sleep(10)
 
         # Get the url first
         for link_dom in response.css('.zsg-photo-card-overlay-link'):
