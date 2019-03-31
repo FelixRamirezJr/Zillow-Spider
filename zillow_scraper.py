@@ -93,7 +93,7 @@ class ZillowScraper(scrapy.Spider):
         index = 0
         all_data = []
         print("Sleeping when in the parse...")
-        time.sleep(10)
+        time.sleep(3)
 
         # Get the url first
         for link_dom in response.css('.zsg-photo-card-overlay-link'):
@@ -107,47 +107,3 @@ class ZillowScraper(scrapy.Spider):
                 callback=self.parse_house,
                 meta=response.meta,
                 headers={"User-Agent": user_agent_rotator.get_random_user_agent()})
-
-            #all_data.append(data)
-
-        # description = ""
-        # for house in response.css('.zsg-photo-card-caption'):
-        #     print("This is index at the start:")
-        #     print(index)
-        #     data = all_data[index]
-        #     data["description"] = house.xpath('//span[@class="zsg-photo-card-status"]/text()').extract()[index]
-        #     #description += status
-        #     data["price"] = house.xpath('//p[@class="zsg-photo-card-spec"]/span[@class="zsg-photo-card-price"]/text()').extract()[index]
-        #     data['price'] = data['price'].replace('$', '').replace(',','').strip()
-        #
-        #     room_data = house.xpath('//p[@class="zsg-photo-card-spec"]/span[@class="zsg-photo-card-info"]/text()').extract()[index]
-        #
-        #     data["rooms"] = room_data[0]
-        #     data["rooms"] = data["rooms"].replace('bds', '').strip()
-        #
-        #     data["bathrooms"] = room_data[1]
-        #     data["bathrooms"] = data["bathrooms"].replace('ba', '').strip()
-        #
-        #     data['description'] = data["description"] + " URL: " + response.url + " page: " + str(response.meta['page'])
-        #     #print house.xpath('//p[@class="zsg-photo-card-spec"]/text()')
-        #     print("========== DATA ==========")
-        #     print(data)
-        #     index = index + 1
-        #     #r = requests.post(url = send_data_url, data = data)
-        #     #print(r.text)
-        #
-        # print("About to try and get the next page")
-        # for next in response.css('.zsg-pagination-next'):
-        #     print("About to try css get for zsg pagination")
-        #     next_page = zillow_url + next.xpath('a/@href').extract_first()
-        #     if next_page != None:
-        #         response.meta['page'] = response.meta['page'] + 1
-        #         print("Sleeping and going to the next page")
-        #         print(response.meta['page'])
-        #         print(next_page)
-        #         time.sleep(5)
-        #
-        #         yield scrapy.Request(next_page,
-        #             callback=self.parse,
-        #             meta=response.meta,
-        #             headers={"User-Agent": user_agent_rotator.get_random_user_agent()})

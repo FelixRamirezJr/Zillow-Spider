@@ -1,0 +1,554 @@
+Phoenix|AZ|Arizona|MARICOPA|Phoenix
+Phoenix|AZ|Arizona|MARICOPA|Anthem
+Phoenix|AZ|Arizona|MARICOPA|Desert Hills
+New River|AZ|Arizona|MARICOPA|Phoenix
+New River|AZ|Arizona|MARICOPA|New River
+Phoenix|AZ|Arizona|MARICOPA|Census Bureau
+Phoenix|AZ|Arizona|MARICOPA|Ctc Florist
+Apache Junction|AZ|Arizona|PINAL|Apache Jct
+Apache Junction|AZ|Arizona|PINAL|Apache Junction
+Gold Canyon|AZ|Arizona|PINAL|Gold Canyon
+Gold Canyon|AZ|Arizona|PINAL|Superstition Mtn
+Gold Canyon|AZ|Arizona|PINAL|Apache Jct
+Gold Canyon|AZ|Arizona|PINAL|Suprstitn Mtn
+Gold Canyon|AZ|Arizona|PINAL|Superstition Mountain
+Gold Canyon|AZ|Arizona|PINAL|Apache Junction
+Gold Canyon|AZ|Arizona|PINAL|Queen Valley
+Bapchule|AZ|Arizona|PINAL|Bapchule
+Casa Grande|AZ|Arizona|PINAL|Eleven Mile
+Casa Grande|AZ|Arizona|PINAL|Casa Grande
+Casa Grande|AZ|Arizona|PINAL|Eleven Mile Corner
+Arizona City|AZ|Arizona|PINAL|Arizona City
+Chandler Heights|AZ|Arizona|MARICOPA|Chandler Heights
+Chandler Heights|AZ|Arizona|MARICOPA|Chandler Hts
+Coolidge|AZ|Arizona|PINAL|Coolidge
+Eloy|AZ|Arizona|PINAL|Eloy
+Eloy|AZ|Arizona|PINAL|Toltec
+Florence|AZ|Arizona|PINAL|Florence
+Hayden|AZ|Arizona|GILA|Hayden
+Kearny|AZ|Arizona|PINAL|Kearny
+Maricopa|AZ|Arizona|PINAL|Maricopa
+Maricopa|AZ|Arizona|PINAL|Mobile
+San Tan Valley|AZ|Arizona|PINAL|Queen Creek
+San Tan Valley|AZ|Arizona|PINAL|San Tan Vly
+San Tan Valley|AZ|Arizona|PINAL|San Tan Valley
+Picacho|AZ|Arizona|PINAL|Picacho
+Queen Creek|AZ|Arizona|MARICOPA|San Tan Valley
+Queen Creek|AZ|Arizona|MARICOPA|Queen Creek
+Queen Creek|AZ|Arizona|MARICOPA|San Tan Vly
+Queen Creek|AZ|Arizona|MARICOPA|Chandler Hts
+Queen Creek|AZ|Arizona|MARICOPA|Chandler Heights
+Red Rock|AZ|Arizona|PINAL|Red Rock
+Sacaton|AZ|Arizona|PINAL|Sacaton
+Stanfield|AZ|Arizona|PINAL|Stanfield
+Superior|AZ|Arizona|PINAL|Superior
+Tortilla Flat|AZ|Arizona|MARICOPA|Tortilla Flat
+Tortilla Flat|AZ|Arizona|MARICOPA|Apache Jct
+Valley Farms|AZ|Arizona|PINAL|Valley Farms
+Winkelman|AZ|Arizona|GILA|Winkelman
+Winkelman|AZ|Arizona|GILA|Dudleyville
+Mesa|AZ|Arizona|MARICOPA|Mesa
+Chandler|AZ|Arizona|MARICOPA|Chandler
+Gilbert|AZ|Arizona|MARICOPA|Gilbert
+Higley|AZ|Arizona|MARICOPA|Higley
+Chandler|AZ|Arizona|MARICOPA|Sun Lakes
+Scottsdale|AZ|Arizona|MARICOPA|Scottsdale
+Paradise Valley|AZ|Arizona|MARICOPA|Paradise Vly
+Paradise Valley|AZ|Arizona|MARICOPA|Scottsdale
+Paradise Valley|AZ|Arizona|MARICOPA|Paradise Valley
+Rio Verde|AZ|Arizona|MARICOPA|Scottsdale
+Rio Verde|AZ|Arizona|MARICOPA|Rio Verde
+Fort Mcdowell|AZ|Arizona|MARICOPA|Scottsdale
+Fort Mcdowell|AZ|Arizona|MARICOPA|Fort Mcdowell
+Fountain Hills|AZ|Arizona|MARICOPA|Scottsdale
+Fountain Hills|AZ|Arizona|MARICOPA|Fountain Hls
+Fountain Hills|AZ|Arizona|MARICOPA|Fountain Hills
+Tempe|AZ|Arizona|MARICOPA|Tempe
+Tempe|AZ|Arizona|MARICOPA|Guadalupe
+Tempe|AZ|Arizona|MARICOPA|Arizona State Univ
+ASU|AZ|Arizona|MARICOPA|Asu
+Tempe|AZ|Arizona|MARICOPA|Arizona State University
+Glendale|AZ|Arizona|MARICOPA|Glendale
+Glendale|AZ|Arizona|MARICOPA|Luke AFB
+Luke Air Force Base|AZ|Arizona|MARICOPA|Gbafaf
+Luke Air Force Base|AZ|Arizona|MARICOPA|Luke Air Force Base
+Luke Air Force Base|AZ|Arizona|MARICOPA|Luke AFB
+Luke Air Force Base|AZ|Arizona|MARICOPA|Glendale
+Aguila|AZ|Arizona|MARICOPA|Aguila
+Ajo|AZ|Arizona|PIMA|Ajo
+Arlington|AZ|Arizona|MARICOPA|Arlington
+Avondale|AZ|Arizona|MARICOPA|Avondale
+Avondale|AZ|Arizona|MARICOPA|Avondale-Goodyear
+Black Canyon City|AZ|Arizona|YAVAPAI|Rock Springs
+Black Canyon City|AZ|Arizona|YAVAPAI|Black Canyon City
+Black Canyon City|AZ|Arizona|YAVAPAI|Black Cyn Cty
+Bouse|AZ|Arizona|LA PAZ|Bouse
+Buckeye|AZ|Arizona|MARICOPA|Buckeye
+Cave Creek|AZ|Arizona|MARICOPA|Cave Creek
+Cibola|AZ|Arizona|LA PAZ|Cibola
+Cashion|AZ|Arizona|MARICOPA|Cashion
+Congress|AZ|Arizona|YAVAPAI|Congress
+Dateland|AZ|Arizona|YUMA|Dateland
+Ehrenberg|AZ|Arizona|LA PAZ|Ehrenberg
+El Mirage|AZ|Arizona|MARICOPA|El Mirage
+Gadsden|AZ|Arizona|YUMA|Gadsden
+Gila Bend|AZ|Arizona|MARICOPA|Gila Bend
+Goodyear|AZ|Arizona|MARICOPA|Avondale-Goodyear
+Goodyear|AZ|Arizona|MARICOPA|Goodyear
+Laveen|AZ|Arizona|MARICOPA|Laveen
+Litchfield Park|AZ|Arizona|MARICOPA|Litchfield Park
+Litchfield Park|AZ|Arizona|MARICOPA|Litchfield Pk
+Litchfield Park|AZ|Arizona|MARICOPA|Litchfield
+Lukeville|AZ|Arizona|PIMA|Lukeville
+Morristown|AZ|Arizona|MARICOPA|Morristown
+Morristown|AZ|Arizona|MARICOPA|Circle City
+Palo Verde|AZ|Arizona|MARICOPA|Palo Verde
+Parker|AZ|Arizona|LA PAZ|Parker
+Peoria|AZ|Arizona|MARICOPA|Peoria
+Quartzsite|AZ|Arizona|LA PAZ|Quartzsite
+Roll|AZ|Arizona|YUMA|Roll
+Salome|AZ|Arizona|LA PAZ|Salome
+San Luis|AZ|Arizona|YUMA|San Luis
+Somerton|AZ|Arizona|YUMA|Somerton
+Sun City|AZ|Arizona|MARICOPA|Sun City
+Tacna|AZ|Arizona|YUMA|Tacna
+Tolleson|AZ|Arizona|MARICOPA|Tolleson
+Tonopah|AZ|Arizona|MARICOPA|Tonopah
+Waddell|AZ|Arizona|MARICOPA|Waddell
+Wellton|AZ|Arizona|YUMA|Wellton
+Wenden|AZ|Arizona|LA PAZ|Wenden
+Wickenburg|AZ|Arizona|MARICOPA|Wickenburg
+Wikieup|AZ|Arizona|MOHAVE|Wikieup
+Wittmann|AZ|Arizona|MARICOPA|Wittmann
+Yarnell|AZ|Arizona|YAVAPAI|Yarnell
+Youngtown|AZ|Arizona|MARICOPA|Youngtown
+Yuma|AZ|Arizona|YUMA|Yuma
+Yuma|AZ|Arizona|YUMA|Martinez Lake
+YPG|AZ|Arizona|YUMA|Ypg
+Yuma|AZ|Arizona|YUMA|Yuma Proving Ground
+Poston|AZ|Arizona|LA PAZ|Poston
+Surprise|AZ|Arizona|MARICOPA|Surprise
+Surprise|AZ|Arizona|MARICOPA|Sun City
+Sun City West|AZ|Arizona|MARICOPA|Sun City West
+Sun City West|AZ|Arizona|MARICOPA|Sun City
+Carefree|AZ|Arizona|MARICOPA|Carefree
+Surprise|AZ|Arizona|MARICOPA|Sun City West
+Globe|AZ|Arizona|GILA|Globe
+Bylas|AZ|Arizona|GRAHAM|Bylas
+Central|AZ|Arizona|GRAHAM|Central
+Claypool|AZ|Arizona|GILA|Claypool
+Clifton|AZ|Arizona|GREENLEE|Clifton
+Duncan|AZ|Arizona|GREENLEE|Duncan
+Duncan|AZ|Arizona|GREENLEE|Virden
+Eden|AZ|Arizona|GRAHAM|Eden
+Fort Thomas|AZ|Arizona|GRAHAM|Fort Thomas
+Miami|AZ|Arizona|GILA|Miami
+Morenci|AZ|Arizona|GREENLEE|Morenci
+Payson|AZ|Arizona|GILA|Star Valley
+Payson|AZ|Arizona|GILA|Payson
+Peridot|AZ|Arizona|GILA|Peridot
+Pima|AZ|Arizona|GRAHAM|Eden
+Pima|AZ|Arizona|GRAHAM|Pima
+Pine|AZ|Arizona|GILA|Strawberry
+Pine|AZ|Arizona|GILA|Pine
+Roosevelt|AZ|Arizona|GILA|Roosevelt
+Safford|AZ|Arizona|GRAHAM|Safford
+San Carlos|AZ|Arizona|GILA|San Carlos
+Solomon|AZ|Arizona|GRAHAM|Solomon
+Thatcher|AZ|Arizona|GRAHAM|Thatcher
+Tonto Basin|AZ|Arizona|GILA|Tonto Basin
+Young|AZ|Arizona|GILA|Young
+Arivaca|AZ|Arizona|PIMA|Arivaca
+Benson|AZ|Arizona|COCHISE|Redington
+Benson|AZ|Arizona|COCHISE|Cascabel
+Benson|AZ|Arizona|COCHISE|Mescal
+Benson|AZ|Arizona|COCHISE|Benson
+Bisbee|AZ|Arizona|COCHISE|Copper Queen
+Bisbee|AZ|Arizona|COCHISE|Tintown
+Bisbee|AZ|Arizona|COCHISE|Lowell
+Bisbee|AZ|Arizona|COCHISE|Sunset Acres
+Bisbee|AZ|Arizona|COCHISE|Bisbee
+Bisbee|AZ|Arizona|COCHISE|Winwood
+Bisbee|AZ|Arizona|COCHISE|Bisbee Jct
+Bisbee|AZ|Arizona|COCHISE|South Bisbee
+Bowie|AZ|Arizona|COCHISE|Bowie
+Cochise|AZ|Arizona|COCHISE|Cochise
+Douglas|AZ|Arizona|COCHISE|Paul Spur
+Douglas|AZ|Arizona|COCHISE|Bay Acres
+Douglas|AZ|Arizona|COCHISE|Douglas
+Dragoon|AZ|Arizona|COCHISE|Dragoon
+Elfrida|AZ|Arizona|COCHISE|Gleeson
+Elfrida|AZ|Arizona|COCHISE|Elfrida
+Elgin|AZ|Arizona|SANTA CRUZ|Elgin
+Elgin|AZ|Arizona|SANTA CRUZ|Canelo
+Fort Huachuca|AZ|Arizona|COCHISE|Sierra Vista
+Fort Huachuca|AZ|Arizona|COCHISE|Fort Huachuca
+Green Valley|AZ|Arizona|PIMA|Sahuarita
+Green Valley|AZ|Arizona|PIMA|Madera Canyon
+Green Valley|AZ|Arizona|PIMA|Green Valley
+Hereford|AZ|Arizona|COCHISE|Miracle Valley
+Hereford|AZ|Arizona|COCHISE|Palominas
+Hereford|AZ|Arizona|COCHISE|Hereford
+Hereford|AZ|Arizona|COCHISE|Nicksville
+Hereford|AZ|Arizona|COCHISE|Parker Lake
+Huachuca City|AZ|Arizona|COCHISE|Huachuca City
+Huachuca City|AZ|Arizona|COCHISE|Whetstone
+Mc Neal|AZ|Arizona|COCHISE|Double Adobe
+Mc Neal|AZ|Arizona|COCHISE|Mcneal
+Mc Neal|AZ|Arizona|COCHISE|Mc Neal
+Mammoth|AZ|Arizona|PINAL|Mammoth
+Mount Lemmon|AZ|Arizona|PIMA|Mount Lemmon
+Naco|AZ|Arizona|COCHISE|Naco
+Nogales|AZ|Arizona|SANTA CRUZ|Fairbank
+Nogales|AZ|Arizona|SANTA CRUZ|Nogales
+Oracle|AZ|Arizona|PINAL|Oracle
+Patagonia|AZ|Arizona|SANTA CRUZ|Patagonia
+Patagonia|AZ|Arizona|SANTA CRUZ|Lochiel
+Patagonia|AZ|Arizona|SANTA CRUZ|Harshaw
+Pearce|AZ|Arizona|COCHISE|Pearce
+Pearce|AZ|Arizona|COCHISE|Sunizona
+Pearce|AZ|Arizona|COCHISE|Sunsites
+Pirtleville|AZ|Arizona|COCHISE|Pirtleville
+Pomerene|AZ|Arizona|COCHISE|Pomerene
+Sahuarita|AZ|Arizona|PIMA|Sahuarita
+Sahuarita|AZ|Arizona|PIMA|Continental
+Saint David|AZ|Arizona|COCHISE|Saint David
+San Manuel|AZ|Arizona|PINAL|San Manuel
+San Simon|AZ|Arizona|COCHISE|Portal
+San Simon|AZ|Arizona|COCHISE|Hilltop
+San Simon|AZ|Arizona|COCHISE|Paradise
+San Simon|AZ|Arizona|COCHISE|San Simon
+Sasabe|AZ|Arizona|PIMA|Sasabe
+Sells|AZ|Arizona|PIMA|Cowlic
+Sells|AZ|Arizona|PIMA|Pisinemo
+Sells|AZ|Arizona|PIMA|Little Tucson
+Sells|AZ|Arizona|PIMA|Fresnal Canyon
+Sells|AZ|Arizona|PIMA|Gu Achi
+Sells|AZ|Arizona|PIMA|Vamori
+Sells|AZ|Arizona|PIMA|Sells
+Sells|AZ|Arizona|PIMA|Sil Nakaya
+Sierra Vista|AZ|Arizona|COCHISE|Fry
+Sierra Vista|AZ|Arizona|COCHISE|Sierra Vista
+Sonoita|AZ|Arizona|SANTA CRUZ|Greaterville
+Sonoita|AZ|Arizona|SANTA CRUZ|Sonoita
+Tombstone|AZ|Arizona|COCHISE|Tombstone
+Topawa|AZ|Arizona|PIMA|Topawa
+Tumacacori|AZ|Arizona|SANTA CRUZ|Kinsley Ranch
+Tumacacori|AZ|Arizona|SANTA CRUZ|Agua Linda
+Tumacacori|AZ|Arizona|SANTA CRUZ|Carmen
+Tumacacori|AZ|Arizona|SANTA CRUZ|Tumacacori
+Vail|AZ|Arizona|PIMA|Corona
+Vail|AZ|Arizona|PIMA|Santa Rita
+Vail|AZ|Arizona|PIMA|Corona De Tuc
+Vail|AZ|Arizona|PIMA|Corona De Tucson
+Vail|AZ|Arizona|PIMA|Santa Rita Foothills
+Vail|AZ|Arizona|PIMA|Vail
+Willcox|AZ|Arizona|COCHISE|Dos Cabezas
+Willcox|AZ|Arizona|COCHISE|Kansas Settlement
+Willcox|AZ|Arizona|COCHISE|Bonita
+Willcox|AZ|Arizona|COCHISE|Sierra Bonita
+Willcox|AZ|Arizona|COCHISE|Chiricahua National Monument
+Willcox|AZ|Arizona|COCHISE|Fort Grant
+Willcox|AZ|Arizona|COCHISE|Sunset
+Willcox|AZ|Arizona|COCHISE|Ft Grant
+Willcox|AZ|Arizona|COCHISE|Rucker
+Willcox|AZ|Arizona|COCHISE|Willcox
+Willcox|AZ|Arizona|COCHISE|Klondyke
+Willcox|AZ|Arizona|COCHISE|Turkey Creek
+Amado|AZ|Arizona|SANTA CRUZ|Amado
+Tubac|AZ|Arizona|SANTA CRUZ|Tubac
+Rio Rico|AZ|Arizona|SANTA CRUZ|Rio Rico
+Rio Rico|AZ|Arizona|SANTA CRUZ|Nogales
+Cortaro|AZ|Arizona|PIMA|Cortaro
+Marana|AZ|Arizona|PIMA|Marana
+Rillito|AZ|Arizona|PIMA|Rillito
+Tucson|AZ|Arizona|PIMA|Tucson
+Tucson|AZ|Arizona|PIMA|Oro Valley
+Tucson|AZ|Arizona|PIMA|Mission
+Tucson|AZ|Arizona|PIMA|Davis Monthan AFB
+DM AFB|AZ|Arizona|PIMA|Dm AFB
+Tucson|AZ|Arizona|PIMA|Pima Community College
+Tucson|AZ|Arizona|PIMA|Rincon
+Tucson|AZ|Arizona|PIMA|Coronado
+Tucson|AZ|Arizona|PIMA|Fort Lowell
+Tucson|AZ|Arizona|PIMA|Sun
+Tucson|AZ|Arizona|PIMA|Univ Of Arizona
+Tucson|AZ|Arizona|PIMA|Veterans Hospital
+Tucson|AZ|Arizona|PIMA|Arizona Medical Center
+Catalina|AZ|Arizona|PIMA|Tucson
+Catalina|AZ|Arizona|PIMA|Catalina
+Tucson|AZ|Arizona|PIMA|Saddlebrooke
+Tucson|AZ|Arizona|PIMA|Catalina
+Tucson|AZ|Arizona|PIMA|Ibm Corp
+Tucson|AZ|Arizona|PIMA|Ft Lowell
+Tucson|AZ|Arizona|PIMA|Tsn
+Tucson|AZ|Arizona|PIMA|Tuscon
+Tucson|AZ|Arizona|PIMA|Tucson Brm
+Show Low|AZ|Arizona|NAVAJO|Show Low
+Show Low|AZ|Arizona|NAVAJO|Shumway
+Cibecue|AZ|Arizona|NAVAJO|Show Low
+Cibecue|AZ|Arizona|NAVAJO|Cibecue
+White Mountain Lake|AZ|Arizona|NAVAJO|White Mtn Lk
+White Mountain Lake|AZ|Arizona|NAVAJO|White Mountain Lake
+Alpine|AZ|Arizona|APACHE|Alpine
+Blue|AZ|Arizona|GREENLEE|Blue
+Clay Springs|AZ|Arizona|NAVAJO|Clay Springs
+Concho|AZ|Arizona|APACHE|Concho Valley
+Concho|AZ|Arizona|APACHE|Concho
+Eagar|AZ|Arizona|APACHE|Eagar
+Fort Apache|AZ|Arizona|NAVAJO|Fort Apache
+Greer|AZ|Arizona|APACHE|Greer
+Heber|AZ|Arizona|NAVAJO|Heber
+Lakeside|AZ|Arizona|NAVAJO|Lakeside
+Mcnary|AZ|Arizona|APACHE|Mcnary
+Mcnary|AZ|Arizona|APACHE|Hawley Lake
+Forest Lakes|AZ|Arizona|COCONINO|Heber
+Forest Lakes|AZ|Arizona|COCONINO|Forest Lakes
+Nutrioso|AZ|Arizona|APACHE|Nutrioso
+Overgaard|AZ|Arizona|NAVAJO|Overgaard
+Pinedale|AZ|Arizona|NAVAJO|Pinedale
+Pinetop|AZ|Arizona|NAVAJO|Pinetop
+Saint Johns|AZ|Arizona|APACHE|Richville
+Saint Johns|AZ|Arizona|APACHE|St Johns
+Saint Johns|AZ|Arizona|APACHE|Witch Wells
+Saint Johns|AZ|Arizona|APACHE|Saint Johns
+Saint Johns|AZ|Arizona|APACHE|Salado
+Snowflake|AZ|Arizona|NAVAJO|Snowflake
+Springerville|AZ|Arizona|APACHE|Springville
+Springerville|AZ|Arizona|APACHE|Springerville
+Taylor|AZ|Arizona|NAVAJO|Taylor
+Vernon|AZ|Arizona|APACHE|Vernon
+Whiteriver|AZ|Arizona|NAVAJO|Whiteriver
+Woodruff|AZ|Arizona|NAVAJO|Snowflake
+Woodruff|AZ|Arizona|NAVAJO|Woodruff
+Flagstaff|AZ|Arizona|COCONINO|Flagstaff
+Flagstaff|AZ|Arizona|COCONINO|Northern Arizona University
+NAU|AZ|Arizona|COCONINO|Nau
+Bellemont|AZ|Arizona|COCONINO|Bellemont
+Bellemont|AZ|Arizona|COCONINO|Flagstaff
+Gray Mountain|AZ|Arizona|COCONINO|Cameron
+Gray Mountain|AZ|Arizona|COCONINO|Gray Mountain
+Munds Park|AZ|Arizona|COCONINO|Flagstaff
+Munds Park|AZ|Arizona|COCONINO|Munds Park
+Parks|AZ|Arizona|COCONINO|Flagstaff
+Parks|AZ|Arizona|COCONINO|Parks
+Parks|AZ|Arizona|COCONINO|Parks Comm Po
+Cameron|AZ|Arizona|COCONINO|Cedar Ridge
+Cameron|AZ|Arizona|COCONINO|Cameron
+Colorado City|AZ|Arizona|MOHAVE|Colorado City
+Fredonia|AZ|Arizona|COCONINO|Cane Beds
+Fredonia|AZ|Arizona|COCONINO|Kaibab
+Fredonia|AZ|Arizona|COCONINO|Jacob Lake
+Fredonia|AZ|Arizona|COCONINO|Kaibab Indian Reservation
+Fredonia|AZ|Arizona|COCONINO|Moccasin
+Fredonia|AZ|Arizona|COCONINO|Pipe Spring National Monumen
+Fredonia|AZ|Arizona|COCONINO|Fredonia
+Grand Canyon|AZ|Arizona|COCONINO|Grand Canyon National Park
+Grand Canyon|AZ|Arizona|COCONINO|Grand Canyon
+Grand Canyon|AZ|Arizona|COCONINO|Tusayan
+Happy Jack|AZ|Arizona|COCONINO|Flagstaff
+Happy Jack|AZ|Arizona|COCONINO|Happy Jack
+Holbrook|AZ|Arizona|NAVAJO|Holbrook
+Petrified Forest Natl Pk|AZ|Arizona|APACHE|Petrified Forest Natl Pk
+Petrified Forest Natl Pk|AZ|Arizona|APACHE|Petrified For
+Petrified Forest Natl Pk|AZ|Arizona|APACHE|Holbrook
+Sun Valley|AZ|Arizona|NAVAJO|Holbrook
+Sun Valley|AZ|Arizona|NAVAJO|Sun Valley
+Hotevilla|AZ|Arizona|NAVAJO|Bacobi
+Hotevilla|AZ|Arizona|NAVAJO|Hotevilla
+Indian Wells|AZ|Arizona|NAVAJO|Bitahochee
+Indian Wells|AZ|Arizona|NAVAJO|Indian Wells
+Indian Wells|AZ|Arizona|NAVAJO|Holbrook
+Joseph City|AZ|Arizona|NAVAJO|Joseph City
+Kayenta|AZ|Arizona|NAVAJO|Baby Rock
+Kayenta|AZ|Arizona|NAVAJO|Black Mesa
+Kayenta|AZ|Arizona|NAVAJO|Chilchinbito
+Kayenta|AZ|Arizona|NAVAJO|Oljato
+Kayenta|AZ|Arizona|NAVAJO|Kayenta
+Keams Canyon|AZ|Arizona|NAVAJO|Jeddito
+Keams Canyon|AZ|Arizona|NAVAJO|Keams Canyon
+Leupp|AZ|Arizona|COCONINO|Leupp
+Marble Canyon|AZ|Arizona|COCONINO|Marble Canyon
+Mormon Lake|AZ|Arizona|COCONINO|Mormon Lake
+Mormon Lake|AZ|Arizona|COCONINO|Flagstaff
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Hard Rock
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Kykotsmovi Village
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Old Oraibi
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Oraibi
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Kykotsmovi
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Sand Springs
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Dennebito
+Kykotsmovi Village|AZ|Arizona|NAVAJO|Hopi Indian Reservation
+Kykotsmovi Village|AZ|Arizona|NAVAJO|New Oraibi
+Page|AZ|Arizona|COCONINO|Lake Powell Mart
+Page|AZ|Arizona|COCONINO|Page
+Page|AZ|Arizona|COCONINO|Greenehaven
+Polacca|AZ|Arizona|NAVAJO|Sichomovi
+Polacca|AZ|Arizona|NAVAJO|Walpi
+Polacca|AZ|Arizona|NAVAJO|First Mesa
+Polacca|AZ|Arizona|NAVAJO|Polacca
+Polacca|AZ|Arizona|NAVAJO|Hano
+Second Mesa|AZ|Arizona|NAVAJO|Second Mesa
+Second Mesa|AZ|Arizona|NAVAJO|Shipolovi
+Second Mesa|AZ|Arizona|NAVAJO|Toreva
+Second Mesa|AZ|Arizona|NAVAJO|Shongopovi
+Second Mesa|AZ|Arizona|NAVAJO|Mishongnovi
+Tonalea|AZ|Arizona|COCONINO|Red Lake
+Tonalea|AZ|Arizona|COCONINO|Tonalea
+Tuba City|AZ|Arizona|COCONINO|Tuba City
+Tuba City|AZ|Arizona|COCONINO|Coal Mine Mesa
+Tuba City|AZ|Arizona|COCONINO|Moenave
+Tuba City|AZ|Arizona|COCONINO|Moenkopi
+Tuba City|AZ|Arizona|COCONINO|Rare Metals
+Williams|AZ|Arizona|COCONINO|Williams
+Winslow|AZ|Arizona|NAVAJO|Tolani Lakes
+Winslow|AZ|Arizona|NAVAJO|Dilkon
+Winslow|AZ|Arizona|NAVAJO|Leupp Corner
+Winslow|AZ|Arizona|NAVAJO|Tolani
+Winslow|AZ|Arizona|NAVAJO|Winslow
+North Rim|AZ|Arizona|COCONINO|Fredonia
+North Rim|AZ|Arizona|COCONINO|North Rim
+Kaibeto|AZ|Arizona|COCONINO|Kaibeto
+Kaibeto|AZ|Arizona|COCONINO|Tonalea
+Shonto|AZ|Arizona|NAVAJO|Shonto
+Shonto|AZ|Arizona|NAVAJO|Tonalea
+Prescott|AZ|Arizona|YAVAPAI|Prescott
+Prescott|AZ|Arizona|YAVAPAI|Groom Creek
+Prescott|AZ|Arizona|YAVAPAI|Iron Springs
+Prescott Valley|AZ|Arizona|YAVAPAI|Prescott Valley
+Prescott Valley|AZ|Arizona|YAVAPAI|Prescott Vly
+Ash Fork|AZ|Arizona|YAVAPAI|Ash Fork
+Bagdad|AZ|Arizona|YAVAPAI|Bagdad
+Camp Verde|AZ|Arizona|YAVAPAI|Camp Verde
+Chino Valley|AZ|Arizona|YAVAPAI|Chino Valley
+Clarkdale|AZ|Arizona|YAVAPAI|Clarkdale
+Cornville|AZ|Arizona|YAVAPAI|Cornville
+Cottonwood|AZ|Arizona|YAVAPAI|Cottonwood
+Dewey|AZ|Arizona|YAVAPAI|Dewey
+Humboldt|AZ|Arizona|YAVAPAI|Humboldt
+Jerome|AZ|Arizona|YAVAPAI|Jerome
+Kirkland|AZ|Arizona|YAVAPAI|Peeples Vly
+Kirkland|AZ|Arizona|YAVAPAI|Peeples Valley
+Kirkland|AZ|Arizona|YAVAPAI|Kirkland
+Mayer|AZ|Arizona|YAVAPAI|Cordes Lakes
+Mayer|AZ|Arizona|YAVAPAI|Spring Valley
+Mayer|AZ|Arizona|YAVAPAI|Mayer
+Mayer|AZ|Arizona|YAVAPAI|Bensch Ranch
+Paulden|AZ|Arizona|YAVAPAI|Paulden
+Rimrock|AZ|Arizona|YAVAPAI|Rimrock
+Sedona|AZ|Arizona|YAVAPAI|Sedona
+Seligman|AZ|Arizona|YAVAPAI|Seligman
+Skull Valley|AZ|Arizona|YAVAPAI|Skull Valley
+Sedona|AZ|Arizona|COCONINO|Sedona
+Lake Montezuma|AZ|Arizona|YAVAPAI|Lake Montezuma
+Lake Montezuma|AZ|Arizona|YAVAPAI|Lk Montezuma
+Crown King|AZ|Arizona|YAVAPAI|Crown King
+Kingman|AZ|Arizona|MOHAVE|Lake Mead Rancheros
+Kingman|AZ|Arizona|MOHAVE|Kingman
+Kingman|AZ|Arizona|MOHAVE|Grasshopper Junction
+Lake Havasu City|AZ|Arizona|MOHAVE|Havasu City
+Lake Havasu City|AZ|Arizona|MOHAVE|Lake Havasu City
+Lake Havasu City|AZ|Arizona|MOHAVE|Lk Havasu Cty
+Kingman|AZ|Arizona|MOHAVE|Hualapai
+Hackberry|AZ|Arizona|MOHAVE|Kingman
+Hackberry|AZ|Arizona|MOHAVE|Hackberry
+Hualapai|AZ|Arizona|MOHAVE|Hualapai
+Hualapai|AZ|Arizona|MOHAVE|Kingman
+Golden Valley|AZ|Arizona|MOHAVE|Golden Valley
+Golden Valley|AZ|Arizona|MOHAVE|Kingman
+Fort Mohave|AZ|Arizona|MOHAVE|Bullhead City
+Fort Mohave|AZ|Arizona|MOHAVE|Fort Mohave
+Bullhead City|AZ|Arizona|MOHAVE|Bullhead City
+Chloride|AZ|Arizona|MOHAVE|Chloride
+Littlefield|AZ|Arizona|MOHAVE|Beaver Dam
+Littlefield|AZ|Arizona|MOHAVE|Littlefield
+Oatman|AZ|Arizona|MOHAVE|Oatman
+Peach Springs|AZ|Arizona|MOHAVE|Grand Canyon Caverns
+Peach Springs|AZ|Arizona|MOHAVE|Shipley
+Peach Springs|AZ|Arizona|MOHAVE|Truxton
+Peach Springs|AZ|Arizona|MOHAVE|Peach Springs
+Supai|AZ|Arizona|COCONINO|Havasupai Indian Reservation
+Supai|AZ|Arizona|COCONINO|Supai
+Topock|AZ|Arizona|MOHAVE|Topock
+Topock|AZ|Arizona|MOHAVE|Golden Shores
+Valentine|AZ|Arizona|MOHAVE|Valentine
+Valentine|AZ|Arizona|MOHAVE|Kingman
+Yucca|AZ|Arizona|MOHAVE|Yucca
+Mohave Valley|AZ|Arizona|MOHAVE|Mohave Valley
+Dolan Springs|AZ|Arizona|MOHAVE|Dolan Springs
+Temple Bar Marina|AZ|Arizona|MOHAVE|Templ Bar Mar
+Temple Bar Marina|AZ|Arizona|MOHAVE|Temple Bar Marina
+Meadview|AZ|Arizona|MOHAVE|Meadview
+Willow Beach|AZ|Arizona|MOHAVE|Kingman
+Willow Beach|AZ|Arizona|MOHAVE|Willow Beach
+Willow Beach|AZ|Arizona|MOHAVE|White Hills
+Mohave Valley|AZ|Arizona|MOHAVE|Bullhead City
+Chambers|AZ|Arizona|APACHE|Wide Ruins
+Chambers|AZ|Arizona|APACHE|Chambers
+Chinle|AZ|Arizona|APACHE|Tsail
+Chinle|AZ|Arizona|APACHE|Smoke Signal
+Chinle|AZ|Arizona|APACHE|Canyon De Chelly National Mo
+Chinle|AZ|Arizona|APACHE|Low Mountain
+Chinle|AZ|Arizona|APACHE|Salina
+Chinle|AZ|Arizona|APACHE|Rough Rock
+Chinle|AZ|Arizona|APACHE|Tahchee
+Chinle|AZ|Arizona|APACHE|Cottonwood Station
+Chinle|AZ|Arizona|APACHE|Huachuca Terrace
+Chinle|AZ|Arizona|APACHE|Chinle
+Fort Defiance|AZ|Arizona|APACHE|White Clay
+Fort Defiance|AZ|Arizona|APACHE|Fort Defiance
+Ganado|AZ|Arizona|APACHE|Klagetoh
+Ganado|AZ|Arizona|APACHE|Kin-Li-Chee
+Ganado|AZ|Arizona|APACHE|Woodsprings
+Ganado|AZ|Arizona|APACHE|Cornfields
+Ganado|AZ|Arizona|APACHE|Toyei
+Ganado|AZ|Arizona|APACHE|Ganado
+Ganado|AZ|Arizona|APACHE|Navajo Station
+Ganado|AZ|Arizona|APACHE|Sunrise Springs
+Ganado|AZ|Arizona|APACHE|Mennonite Mission
+Ganado|AZ|Arizona|APACHE|Greasewood
+Ganado|AZ|Arizona|APACHE|Hubbell Trading Post Nationa
+Ganado|AZ|Arizona|APACHE|Steamboat Canyon
+Houck|AZ|Arizona|APACHE|Querino
+Houck|AZ|Arizona|APACHE|Allentown
+Houck|AZ|Arizona|APACHE|Oak Springs
+Houck|AZ|Arizona|APACHE|Houck
+Houck|AZ|Arizona|APACHE|Pine Springs
+Lukachukai|AZ|Arizona|APACHE|Chinle
+Lukachukai|AZ|Arizona|APACHE|Upper Greasewood Trading Pos
+Lukachukai|AZ|Arizona|APACHE|Upper Wheatfields
+Lukachukai|AZ|Arizona|APACHE|Lukachukai
+Lukachukai|AZ|Arizona|APACHE|Greasewood Springs
+Lupton|AZ|Arizona|APACHE|Lupton
+Lupton|AZ|Arizona|APACHE|Houck
+Pinon|AZ|Arizona|NAVAJO|Pinon
+Saint Michaels|AZ|Arizona|APACHE|St Michaels
+Saint Michaels|AZ|Arizona|APACHE|Cross Canyon
+Saint Michaels|AZ|Arizona|APACHE|Two Story
+Saint Michaels|AZ|Arizona|APACHE|Saint Michaels
+Saint Michaels|AZ|Arizona|APACHE|Hunters Point
+Sanders|AZ|Arizona|APACHE|Sanders
+Sanders|AZ|Arizona|APACHE|Burnt Water
+Teec Nos Pos|AZ|Arizona|APACHE|Tolacon
+Teec Nos Pos|AZ|Arizona|APACHE|Teec Nos Pos
+Teec Nos Pos|AZ|Arizona|APACHE|Immanuel Mission
+Teec Nos Pos|AZ|Arizona|APACHE|Mexican Water
+Teec Nos Pos|AZ|Arizona|APACHE|Red Mesa
+Window Rock|AZ|Arizona|APACHE|Tse Bonita
+Window Rock|AZ|Arizona|APACHE|Window Rock
+Window Rock|AZ|Arizona|APACHE|Navajo Indian Reservation
+Blue Gap|AZ|Arizona|NAVAJO|Blue Gap
+Blue Gap|AZ|Arizona|NAVAJO|Pinon
+Dennehotso|AZ|Arizona|APACHE|Dennehotso
+Dennehotso|AZ|Arizona|APACHE|Teec Nos Pos
+Many Farms|AZ|Arizona|APACHE|Chinle
+Many Farms|AZ|Arizona|APACHE|Many Farms
+Nazlini|AZ|Arizona|APACHE|Ganado
+Nazlini|AZ|Arizona|APACHE|Nazlini
+Red Valley|AZ|Arizona|APACHE|Teec Nos Pos
+Red Valley|AZ|Arizona|APACHE|Red Valley
+Rock Point|AZ|Arizona|APACHE|Rock Point
+Round Rock|AZ|Arizona|APACHE|Round Rock
+Round Rock|AZ|Arizona|APACHE|Chinle
+Tsaile|AZ|Arizona|APACHE|Tsaile
+Tsaile|AZ|Arizona|APACHE|Chinle
