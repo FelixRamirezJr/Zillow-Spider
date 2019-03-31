@@ -29,7 +29,7 @@ class ZillowScraper(scrapy.Spider):
         urls_to_scrape = []
         agent = user_agent_rotator.get_random_user_agent()
 
-        file = open ("us_cities_states_counties.txt", "r")
+        file = open ("arizona.txt", "r")
         for line in file:
             splitted = line.strip().split('|')
             city = splitted[0].replace(' ', '-')
